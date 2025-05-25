@@ -1,0 +1,11 @@
+[ {
+  "id" : "35a9a6c5-e744-4e4a-9d04-c4c43b42c2b1",
+  "nom" : "AHMED JALIL",
+  "email" : "tadidajalil01@gmail.com,tadidajalil01@gmail.com",
+  "evenementIds" : [ ]
+}, {
+  "id" : "4c94113d-6e0d-4616-900d-17548ab62c54",
+  "nom" : "JOEL LILIAN",
+  "email" : "joellilian@gmail.com",
+  "evenementIds" : [ "8e8c5614-1c7e-46d3-a69f-f8affe9fa131" ]
+} ]

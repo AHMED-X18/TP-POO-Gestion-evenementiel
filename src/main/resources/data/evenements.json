@@ -1,0 +1,19 @@
+[ {
+  "id" : "8e8c5614-1c7e-46d3-a69f-f8affe9fa131",
+  "nom" : "YAFE",
+  "date" : "2025-05-25T18:55:49.78543421",
+  "lieu" : "Yaounde",
+  "capaciteMax" : 1000,
+  "participantIds" : [ "4c94113d-6e0d-4616-900d-17548ab62c54" ],
+  "artiste" : "Tenor",
+  "genreMusical" : "RAP"
+}, {
+  "id" : "6aa54480-2d64-4718-8dc4-77c96e925fb0",
+  "nom" : "YAFE",
+  "date" : "2025-05-25T19:04:44.628267144",
+  "lieu" : "Yaounde",
+  "capaciteMax" : 1000,
+  "participantIds" : [ ],
+  "artiste" : "Lydol",
+  "genreMusical" : "Slam"
+} ]
